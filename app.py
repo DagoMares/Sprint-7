@@ -1,10 +1,9 @@
 import pandas as pd
 import plotly.express as px
 import streamlit as st
-
+import os
 
 # Revisión de la existencia del archivo antes de leerlo
-import os
 file_path = r"vehicles_us.csv"
 if os.path.exists(file_path):
     car_data = pd.read_csv(file_path)
