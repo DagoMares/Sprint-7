@@ -5,7 +5,7 @@ import streamlit as st
 
 # Revisión de la existencia del archivo antes de leerlo
 import os
-file_path = r"C:\\Users\\hunte\\OneDrive\\Escritorio\\Documentos\\TTen\\Sprint-7\\vehicles_us.csv"
+file_path = r"vehicles_us.csv"
 if os.path.exists(file_path):
     car_data = pd.read_csv(file_path)
 else:
