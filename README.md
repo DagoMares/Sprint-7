@@ -10,8 +10,7 @@ Este proyecto es una aplicación interactiva desarrollada en **Python** para rea
 | :--- | :--- |
 | **Lenguaje** | Python |
 | **Librerías Clave** | Pandas (Manipulación de Datos), Matplotlib/Seaborn (Visualización Estática) |
-| **Framework Web** | [Streamlit o Dash - *Añade el que usaste*] (Despliegue Interactivo) |
-| **Base de Datos** | SQL (Si utilizaste una conexión para obtener los datos) |
+| **Framework Web** | [Streamlit - *Añade el que usaste*] (Despliegue Interactivo) |
 
 ## 🚀 Características Principales
 
@@ -27,7 +26,7 @@ La aplicación ofrece dos visualizaciones interactivas clave:
 
 ## 🖼️ Muestra de la Aplicación
 
-*(Aquí debes insertar una o dos **capturas de pantalla** o un GIF de la aplicación en funcionamiento. **Esto es crucial**).*
+**
 
 ## 🛠️ Instrucciones de Instalación y Ejecución
 
