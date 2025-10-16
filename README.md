@@ -50,7 +50,7 @@ Para ejecutar este proyecto en tu entorno local:
     *(**Nota:** Asegúrate de tener un archivo `requirements.txt` con todas las librerías: pandas, streamlit/dash, etc.)*
 4.  **Ejecuta la aplicación:**
     ```bash
-    [Comando de ejecución de tu framework, ej.: streamlit run app.py]
+    [streamlit run app.py]
     ```
 
 ---
