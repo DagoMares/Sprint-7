@@ -49,7 +49,7 @@ Para ejecutar este proyecto en tu entorno local:
     ```
 4.  **Ejecuta la aplicación:**
     ```bash
-    [streamlit run app.py]
+    streamlit run app.py
     ```
 
 ---
