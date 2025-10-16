@@ -26,7 +26,7 @@ La aplicación ofrece dos visualizaciones interactivas clave:
 
 ## 🖼️ Muestra de la Aplicación
 
-**
+![](https://github.com/DagoMares/vehicle-price-eda/blob/main/EDA-GIF.gif)
 
 ## 🛠️ Instrucciones de Instalación y Ejecución
 
