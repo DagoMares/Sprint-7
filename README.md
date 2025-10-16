@@ -47,7 +47,6 @@ Para ejecutar este proyecto en tu entorno local:
     ```bash
     pip install -r requirements.txt
     ```
-    *(**Nota:** Asegúrate de tener un archivo `requirements.txt` con todas las librerías: pandas, streamlit/dash, etc.)*
 4.  **Ejecuta la aplicación:**
     ```bash
     [streamlit run app.py]
